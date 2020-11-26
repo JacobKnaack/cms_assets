@@ -11,7 +11,7 @@ Different folders contain content of differnet types:
 contains screen shot content
 
 - document.jpg [https://jacobknaack.me/cms_assets/screenshots/document.jpg](https://jacobknaack.me/cms_assets/screenshots/document.jpg)
-  - list of all elements contains in the  `document` object
-- queried_elements.jpg[https://jacobknaack.me/cms_assets/screenshots/queried_elements.jpg](https://jacobknaack.me/cms_assets/screenshots/queried_elements.jpg)
-  - list od dicreet elements returns from a `document.querySelector` search
+  - list of all elements contained in the  `document` object
+- queried_elements.jpg [https://jacobknaack.me/cms_assets/screenshots/queried_elements.jpg](https://jacobknaack.me/cms_assets/screenshots/queried_elements.jpg)
+  - list of discreet elements returned from a `document.querySelector` search
 
